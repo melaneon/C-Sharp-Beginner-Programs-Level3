@@ -1,0 +1,13 @@
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab03\RectangularApp\RectangularApp\obj\Debug\netcoreapp3.1\RectangularApp.csprojAssemblyReference.cache
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab03\RectangularApp\RectangularApp\obj\Debug\netcoreapp3.1\RectangularApp.AssemblyInfoInputs.cache
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab03\RectangularApp\RectangularApp\obj\Debug\netcoreapp3.1\RectangularApp.AssemblyInfo.cs
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab03\RectangularApp\RectangularApp\obj\Debug\netcoreapp3.1\RectangularApp.csproj.CoreCompileInputs.cache
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab03\RectangularApp\RectangularApp\bin\Debug\netcoreapp3.1\RectangularApp.exe
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab03\RectangularApp\RectangularApp\bin\Debug\netcoreapp3.1\RectangularApp.deps.json
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab03\RectangularApp\RectangularApp\bin\Debug\netcoreapp3.1\RectangularApp.runtimeconfig.json
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab03\RectangularApp\RectangularApp\bin\Debug\netcoreapp3.1\RectangularApp.runtimeconfig.dev.json
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab03\RectangularApp\RectangularApp\bin\Debug\netcoreapp3.1\RectangularApp.dll
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab03\RectangularApp\RectangularApp\bin\Debug\netcoreapp3.1\RectangularApp.pdb
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab03\RectangularApp\RectangularApp\obj\Debug\netcoreapp3.1\RectangularApp.dll
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab03\RectangularApp\RectangularApp\obj\Debug\netcoreapp3.1\RectangularApp.pdb
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab03\RectangularApp\RectangularApp\obj\Debug\netcoreapp3.1\RectangularApp.genruntimeconfig.cache

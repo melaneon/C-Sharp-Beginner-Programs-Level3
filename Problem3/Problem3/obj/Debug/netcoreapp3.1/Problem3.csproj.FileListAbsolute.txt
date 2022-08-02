@@ -1,0 +1,13 @@
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab03\Problem3\Problem3\obj\Debug\netcoreapp3.1\Problem3.csprojAssemblyReference.cache
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab03\Problem3\Problem3\obj\Debug\netcoreapp3.1\Problem3.AssemblyInfoInputs.cache
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab03\Problem3\Problem3\obj\Debug\netcoreapp3.1\Problem3.AssemblyInfo.cs
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab03\Problem3\Problem3\obj\Debug\netcoreapp3.1\Problem3.csproj.CoreCompileInputs.cache
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab03\Problem3\Problem3\bin\Debug\netcoreapp3.1\Problem3.exe
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab03\Problem3\Problem3\bin\Debug\netcoreapp3.1\Problem3.deps.json
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab03\Problem3\Problem3\bin\Debug\netcoreapp3.1\Problem3.runtimeconfig.json
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab03\Problem3\Problem3\bin\Debug\netcoreapp3.1\Problem3.runtimeconfig.dev.json
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab03\Problem3\Problem3\bin\Debug\netcoreapp3.1\Problem3.dll
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab03\Problem3\Problem3\bin\Debug\netcoreapp3.1\Problem3.pdb
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab03\Problem3\Problem3\obj\Debug\netcoreapp3.1\Problem3.dll
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab03\Problem3\Problem3\obj\Debug\netcoreapp3.1\Problem3.pdb
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab03\Problem3\Problem3\obj\Debug\netcoreapp3.1\Problem3.genruntimeconfig.cache

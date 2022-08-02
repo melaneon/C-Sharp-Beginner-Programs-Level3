@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TakeHomePay", "TakeHomePay\TakeHomePay.csproj", "{C46ACC0F-05C5-4CA1-9B04-BD725DA17ECF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C46ACC0F-05C5-4CA1-9B04-BD725DA17ECF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C46ACC0F-05C5-4CA1-9B04-BD725DA17ECF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C46ACC0F-05C5-4CA1-9B04-BD725DA17ECF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C46ACC0F-05C5-4CA1-9B04-BD725DA17ECF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECF377E2-76ED-4DE0-BCF9-873B59D03012}
+	EndGlobalSection
+EndGlobal

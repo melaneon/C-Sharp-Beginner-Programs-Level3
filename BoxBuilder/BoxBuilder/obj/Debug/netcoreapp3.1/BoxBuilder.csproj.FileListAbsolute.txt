@@ -1,0 +1,13 @@
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab03\BoxBuilder\BoxBuilder\bin\Debug\netcoreapp3.1\BoxBuilder.exe
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab03\BoxBuilder\BoxBuilder\bin\Debug\netcoreapp3.1\BoxBuilder.deps.json
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab03\BoxBuilder\BoxBuilder\bin\Debug\netcoreapp3.1\BoxBuilder.runtimeconfig.json
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab03\BoxBuilder\BoxBuilder\bin\Debug\netcoreapp3.1\BoxBuilder.runtimeconfig.dev.json
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab03\BoxBuilder\BoxBuilder\bin\Debug\netcoreapp3.1\BoxBuilder.dll
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab03\BoxBuilder\BoxBuilder\bin\Debug\netcoreapp3.1\BoxBuilder.pdb
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab03\BoxBuilder\BoxBuilder\obj\Debug\netcoreapp3.1\BoxBuilder.csprojAssemblyReference.cache
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab03\BoxBuilder\BoxBuilder\obj\Debug\netcoreapp3.1\BoxBuilder.AssemblyInfoInputs.cache
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab03\BoxBuilder\BoxBuilder\obj\Debug\netcoreapp3.1\BoxBuilder.AssemblyInfo.cs
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab03\BoxBuilder\BoxBuilder\obj\Debug\netcoreapp3.1\BoxBuilder.csproj.CoreCompileInputs.cache
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab03\BoxBuilder\BoxBuilder\obj\Debug\netcoreapp3.1\BoxBuilder.dll
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab03\BoxBuilder\BoxBuilder\obj\Debug\netcoreapp3.1\BoxBuilder.pdb
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab03\BoxBuilder\BoxBuilder\obj\Debug\netcoreapp3.1\BoxBuilder.genruntimeconfig.cache
